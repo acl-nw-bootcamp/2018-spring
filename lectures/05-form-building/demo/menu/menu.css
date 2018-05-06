@@ -1,0 +1,6 @@
+h1 { text-align: center;}
+nav {display: inline; }
+nav:before { font-size: 30px; }
+
+#main-menu { display: none; }
+nav:hover #main-menu { display: block; }
